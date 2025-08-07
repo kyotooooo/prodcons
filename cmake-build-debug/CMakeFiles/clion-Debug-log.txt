@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "Unix Makefiles" -S /mnt/c/Users/kotsy/CLionProjects/LLCapitalTest -B /mnt/c/Users/kotsy/CLionProjects/LLCapitalTest/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /mnt/c/Users/kotsy/CLionProjects/LLCapitalTest/cmake-build-debug
